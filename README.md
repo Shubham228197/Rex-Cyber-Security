@@ -1,2 +1,2 @@
 # Rex-Cyber-Security
-COntains HTML files for  Intern Assignment
+Contains HTML files for  Intern Assignment
